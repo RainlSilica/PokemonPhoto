@@ -1,0 +1,13 @@
+{
+  "item.pokemonphoto.bulbasaur_normal": "普通妙蛙种子",
+  "item.pokemonphoto.bulbasaur_shiny": "闪光妙蛙种子",
+  "item.pokemonphoto.ivysaur_normal": "普通妙蛙草",
+  "item.pokemonphoto.ivysaur_shiny": "闪光妙蛙草",
+  "item.pokemonphoto.venusaur_normal": "普通妙蛙花",
+  "item.pokemonphoto.venusaur_normal_gigantamax": "普通超极巨化妙蛙花",
+  "item.pokemonphoto.venusaur_normal_mega": "普通mega妙蛙花",
+  "item.pokemonphoto.venusaur_shiny": "闪光妙蛙花",
+  "item.pokemonphoto.venusaur_shiny_gigantamax": "闪光超极巨化妙蛙花",
+  "item.pokemonphoto.venusaur_shiny_mega": "闪光mega妙蛙花",
+  "itemGroup.pokemon_photo": "宝可梦照片"
+}

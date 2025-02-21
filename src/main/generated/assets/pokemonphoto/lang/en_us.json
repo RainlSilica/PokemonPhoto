@@ -1,0 +1,13 @@
+{
+  "item.pokemonphoto.bulbasaur_normal": "Bulbasaur Normal",
+  "item.pokemonphoto.bulbasaur_shiny": "Bulbasaur Shiny",
+  "item.pokemonphoto.ivysaur_normal": "Ivysaur Normal",
+  "item.pokemonphoto.ivysaur_shiny": "Ivysaur Shiny",
+  "item.pokemonphoto.venusaur_normal": "Venusaur Normal",
+  "item.pokemonphoto.venusaur_normal_gigantamax": "Venusaur Shiny Gigantamax",
+  "item.pokemonphoto.venusaur_normal_mega": "Venusaur Normal Mega",
+  "item.pokemonphoto.venusaur_shiny": "Venusaur Shiny",
+  "item.pokemonphoto.venusaur_shiny_gigantamax": "Venusaur Shiny Gigantamax",
+  "item.pokemonphoto.venusaur_shiny_mega": "Venusaur Shiny Mega",
+  "itemGroup.pokemon_photo": "Pokemon Photo"
+}
