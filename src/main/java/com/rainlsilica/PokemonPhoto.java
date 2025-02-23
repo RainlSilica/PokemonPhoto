@@ -1,5 +1,6 @@
 package com.rainlsilica;
 
+import com.rainlsilica.item.PokemonGen2Photos;
 import com.rainlsilica.item.PokemonPhotoGroup;
 import com.rainlsilica.item.PokemonGen1Photos;
 import net.fabricmc.api.ModInitializer;
@@ -13,8 +14,13 @@ public class PokemonPhoto implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		init();
+		LOGGER.info("Hello Fabric world!");
+	}
+
+	private void init() {
+		PokemonGen2Photos.registerModItems();
 		PokemonGen1Photos.registerModItems();
 		PokemonPhotoGroup.registerItemGroup();
-		LOGGER.info("Hello Fabric world!");
 	}
 }
