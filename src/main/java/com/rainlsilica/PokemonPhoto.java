@@ -1,7 +1,7 @@
 package com.rainlsilica;
 
 import com.rainlsilica.item.PokemonPhotoGroup;
-import com.rainlsilica.item.PokemonPhotos;
+import com.rainlsilica.item.PokemonGen1Photos;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -13,7 +13,7 @@ public class PokemonPhoto implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		PokemonPhotos.registerModItems();
+		PokemonGen1Photos.registerModItems();
 		PokemonPhotoGroup.registerItemGroup();
 		LOGGER.info("Hello Fabric world!");
 	}
