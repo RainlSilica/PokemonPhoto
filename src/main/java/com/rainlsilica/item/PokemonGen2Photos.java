@@ -270,6 +270,6 @@ public class PokemonGen2Photos {
     }
 
     public static void registerModItems() {
-        PokemonPhoto.LOGGER.info("Registering pokemon photos");
+        PokemonPhoto.LOGGER.info("Registering gen2 pokemon photos");
     }
 }
