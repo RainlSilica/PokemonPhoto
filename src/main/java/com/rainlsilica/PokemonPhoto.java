@@ -1,9 +1,6 @@
 package com.rainlsilica;
 
-import com.rainlsilica.item.PokemonGen2Photos;
-import com.rainlsilica.item.PokemonGen3Photos;
-import com.rainlsilica.item.PokemonPhotoGroup;
-import com.rainlsilica.item.PokemonGen1Photos;
+import com.rainlsilica.item.*;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -23,6 +20,7 @@ public class PokemonPhoto implements ModInitializer {
 		PokemonGen2Photos.registerModItems();
 		PokemonGen1Photos.registerModItems();
 		PokemonGen3Photos.registerModItems();
+		PokemonGen4Photos.registerModItems();
 		PokemonPhotoGroup.registerItemGroup();
 	}
 }
