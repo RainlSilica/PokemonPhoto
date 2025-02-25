@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pokemonphoto:item/hippopotas_male_shiny"
+  }
+}
