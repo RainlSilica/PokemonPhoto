@@ -1,5 +1,0 @@
-$body megalatios.bmd
-$anim idle idle.bmd
-$anim walk walk.bmd
-$anim fly walk.bmd
-$scale 0.2
