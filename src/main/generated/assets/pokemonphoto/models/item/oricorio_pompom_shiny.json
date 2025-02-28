@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pokemonphoto:item/oricorio_pompom_shiny"
+  }
+}
