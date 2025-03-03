@@ -26,6 +26,6 @@ public class PokemonPhoto implements ModInitializer {
 		PokemonGen7Photos.registerModItems();
 		PokemonGen8Photos.registerModItems();
 		PokemonGen9Photos.registerModItems();
-		PokemonPhotoGroup.registerItemGroup();
+		PokemonSpecialPhotos.registerModItems();
 	}
 }

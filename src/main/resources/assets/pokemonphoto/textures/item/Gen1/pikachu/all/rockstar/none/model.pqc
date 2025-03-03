@@ -1,4 +1,0 @@
-$body rockstar.bmd
-$anim idle idle.bmd
-$anim walk walk.bmd
-$scale 0.4

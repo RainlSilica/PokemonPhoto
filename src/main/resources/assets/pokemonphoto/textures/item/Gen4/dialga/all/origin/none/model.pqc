@@ -1,4 +1,0 @@
-$body dialga.bmd
-$anim idle idle.bmd
-$anim walk walk.bmd
-$scale 8
